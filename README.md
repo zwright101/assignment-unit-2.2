@@ -1,4 +1,4 @@
-# Prime Tier 1 Week 2
+# Prime Tier 1 Week 2 - Part 2
 
 This week we introduced the programming language of the Internet, JavaScript. With JavaScript we can make our websites smart by adding interactivity and logic.
 
