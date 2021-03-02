@@ -153,8 +153,8 @@ if (temp > 39 || time >= 4) {
 */
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
-// We check if age is greater than minAge 
-// -- they are, so we console.log 'enter'.
+// We check if age is greater than or equal to minAge 
+// -- it is, so we console.log 'enter'.
 
 /*
 let age = 21;
