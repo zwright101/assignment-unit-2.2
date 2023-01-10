@@ -1,4 +1,4 @@
-# Prime Tier 1 Week 2 - Part 2
+# Unit 2, Part 2: Describing Code
 
 This week we introduced the programming language of the Internet, JavaScript. With JavaScript we can make our websites smart by adding interactivity and logic.
 
@@ -27,7 +27,7 @@ The file is broken into two sections:
 - In the second section, there is a description of how the code *should* work, but the code has an issue or "bug" in it for you to find. 
 
 __Section 1__   
-For questions 1-3, you will narrate what the code is doing. Remember the code here is correct. Just, describe in your own words what the code is doing.
+For questions 1-3, you will narrate what the code is doing. The code here is correct. Just describe in your own words what the code is doing. Pretend it is running in the browser and you need to describe each line as it would run. NOTE: Not all lines WOULD run based on the conditional logic.
 
 Example:
 ```
